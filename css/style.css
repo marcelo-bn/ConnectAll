@@ -165,13 +165,13 @@ strong {
 	font-weight:bolder;
 }
 span {
-	color:#e73131;
+	color:#f1c232;
 }
 .space {
 	margin:30px 0px;
 }
 .line {
-	border:1px solid #e73131;
+	border:1px solid #f1c232;
 	width:15%;
 }
 a:hover, a:focus {
@@ -405,7 +405,7 @@ ul.nav li.active a:before {
 }
 .heading p {
 	padding:20px 0px;
-	font-size:13px;
+	font-size:21px;
 	font-weight:bolder;
 	color:#555;
 }
