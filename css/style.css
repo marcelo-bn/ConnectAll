@@ -415,9 +415,9 @@ ul.nav li.active a:before {
 .ab-sec h3 {
 	font-weight:bolder;
 }
-.ab-sec p {
+.ab-sec p { /*QUEM SOMO*/
 	padding:10px 0px;
-	font-size:13px;
+	font-size:18px;
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
