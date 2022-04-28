@@ -557,6 +557,7 @@ ul.nav li.active a:before {
 }
 #features p.feat-sec-1 {
 	padding-top:10px;
+	font-size: 21px;
 }
 #features .tab-content .feat-sec {
 	margin-top:10px;
